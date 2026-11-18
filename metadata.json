@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Apothecary Tycoon",
+  "description": "Original fantasy business simulation game where you build and manage your magical apothecary shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
